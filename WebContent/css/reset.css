@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+*{
+		margin: 0;
+		padding:0;
+		list-style: none;
+	/* 헤더부분 백그라운드 빈공간안생기는거  */
+	
+}
+
+a{
+	color: black;
+	text-decoration: none;
+	
+	
+}
